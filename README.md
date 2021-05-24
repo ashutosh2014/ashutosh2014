@@ -1,16 +1,24 @@
 ### Hi there 👋
+  
+### My Name is Ashutosh Agarwal, I build things for Web 💻, Dekstop 💻 and Mobile 📱.
 
-<!--
-**ashutosh2014/ashutosh2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working in  No-Code Application Platform @[Blup](https://blup.in/).
+- 🌱 I’m currently learning Angular.
+- 💬 Ask me about Flutter, Angular, Angualar Material, C#, Jasper Reports.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: I 💘 💻 && I 💘 📷🎥.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Get In Touch** 
+
+&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ashutosh-a-775804119/">
+  <img align="left" alt="Ashutosh's Linkdein" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a>
+<a href="https://stackoverflow.com/users/10201516/ashu-agarwal">
+  <img align="left" alt="Ashutosh's StackOverflow" width="30px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />
+</a>
+<a href="https://twitter.com/as_uto">
+  <img align="left" alt="Ashutosh's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
+</a>
+
+<br/>
