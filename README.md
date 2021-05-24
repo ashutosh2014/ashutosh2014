@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-### My Name is Ashutosh Agarwal, I build things for Web 💻, Dekstop 💻 and Mobile 📱.
+### This is Ashutosh Agarwal, I build things for Web 💻, Dekstop 💻 and Mobile 📱.
 
 - 🔭 I’m currently working in  No-Code Application Platform @[Blup](https://blup.in/).
 - 🌱 I’m currently learning Angular.
