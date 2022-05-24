@@ -3,7 +3,7 @@
 ### This is Ashutosh Agarwal, I build things for Web 💻, Dekstop 💻 and Mobile 📱.
 
 - 🔭 I’m currently working in  No-Code Application Platform @[Blup](https://blup.in/).
-- 💬 Ask me about Flutter, Angular, Angualar Material, C#, Jasper Reports.
+- 💬 Ask me about Flutter, Angular, Angualar Material, HTML, CSS, JS.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I 💘 💻 && I 💘 📷🎥.
 
