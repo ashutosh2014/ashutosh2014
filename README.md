@@ -21,5 +21,3 @@
 </a>
 
 <br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutosh2014&theme=dark&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)
