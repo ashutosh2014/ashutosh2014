@@ -1,8 +1,8 @@
+![](https://komarev.com/ghpvc/?username=ashutosh2014&style=flat-square)
+
 ### Hi there 👋
   
 ### This is Ashutosh Agarwal, I build things for Web 💻, Dekstop 💻 and Mobile 📱.
-
-![](https://komarev.com/ghpvc/?username=ashutosh2014&style=flat-square)
 
 
 - 🔭 I’m currently working in  No-Code Application Platform @[Blup](https://blup.in/).
@@ -24,3 +24,8 @@
 </a>
 
 <br/>
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2014&count_private=true&theme=merko&&layout=compact)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2014&show_icons=true&count_private=true&theme=merko)
