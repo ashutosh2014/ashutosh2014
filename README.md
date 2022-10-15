@@ -2,6 +2,9 @@
   
 ### This is Ashutosh Agarwal, I build things for Web 💻, Dekstop 💻 and Mobile 📱.
 
+![](https://komarev.com/ghpvc/?username=ashutosh2014&style=flat-square)
+
+
 - 🔭 I’m currently working in  No-Code Application Platform @[Blup](https://blup.in/).
 - 💬 Ask me about Flutter, Angular, Angualar Material, HTML, CSS, JS.
 - 😄 Pronouns: He/His.
