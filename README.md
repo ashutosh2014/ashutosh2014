@@ -29,3 +29,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2014&count_private=true&theme=merko&&layout=compact)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2014&show_icons=true&count_private=true&theme=merko)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutosh2014&theme=highcontrast&hide_border=true&border_radius=12&background=000000&border=DD2727&ring=DD2727)](https://git.io/streak-stats)
