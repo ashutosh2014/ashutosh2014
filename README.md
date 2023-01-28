@@ -26,9 +26,28 @@
 <br/>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2014&count_private=true&theme=merko&&layout=compact)
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh2014&theme=github-compact"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ashutosh2014&show_icons=true&count_private=true&theme=merko)
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh2014&theme=github_dark"/>
+</p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutosh2014&theme=highcontrast&hide_border=true&border_radius=12&background=000000&border=DD2727&ring=DD2727)](https://git.io/streak-stats)
+## 💚💚 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh2014&count_private=true&theme=merko&&layout=compact" />
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh2014&show_icons=true&count_private=true&theme=merko" />
+</p>
+
+## ☄️ GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutosh2014&theme=highcontrast&hide_border=true&border_radius=12&background=000000&border=DD2727&ring=DD2727" />
+</p>
