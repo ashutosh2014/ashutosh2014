@@ -28,7 +28,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh2014&theme=github-compact"/>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh2014&theme=github-compact"/>
 </p>
 
 ## 💳 Github Profile Summary Card
