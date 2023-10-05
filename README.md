@@ -49,5 +49,5 @@
 
 ## ☄️ GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashutosh2014&theme=highcontrast&hide_border=true&border_radius=12&background=000000&border=DD2727&ring=DD2727" />
+  <img src="https://streak-stats.demolab.com?user=ashutosh2014&theme=dark&hide_border=true" />
 </p>
