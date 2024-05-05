@@ -13,7 +13,7 @@
 
 **Get In Touch** 
 
-&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ashutosh-a-775804119/">
+&nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/agarwalashu/">
   <img align="left" alt="Ashutosh's Linkdein" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="https://stackoverflow.com/users/10201516/ashu-agarwal">
