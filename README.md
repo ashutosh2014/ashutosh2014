@@ -49,5 +49,5 @@
 
 ## ☄️ GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutosh2014&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ashutosh2014&theme=dark&hide_border=true&short_numbers=true" />
 </p>
